@@ -69,6 +69,7 @@ def insert_to_table(data, short_code,user_identifier,unique_id):   #03
     rep =0
     id = 0
     arra=[]
+    asdasf=[]
    
   
 
